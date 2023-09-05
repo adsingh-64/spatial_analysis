@@ -1,2 +1,2 @@
-# spatial_analysis
-Spatial Analysis Papers
+# Spatial Analysis
+A collection of my spatial analysis research.
